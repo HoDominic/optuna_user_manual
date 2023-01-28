@@ -22,3 +22,9 @@ $ conda install -c conda-forge optuna
 ## Deep learning demo
 In this demo you can see how Optuna is implemented to convolutional neural networks.<br>
 The dataset used is [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+You will learn how to implement Optuna to optimize hyperparameters using:<br>
+- Grid search
+- Random search
+- Tree-Structured Parzen Estimator (TPE)
+
