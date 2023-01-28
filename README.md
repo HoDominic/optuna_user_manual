@@ -8,7 +8,7 @@ Learn how to install and implement Optuna optimization with Machine learning and
   <br>Official documentation: [Optuna documentation](https://optuna.readthedocs.io/en/stable/)
     
 ## Installation
-Optuna [installation guide] (https://optuna.readthedocs.io/en/stable/installation.html)
+Optuna [installation guide](https://optuna.readthedocs.io/en/stable/installation.html)
 Optuna via pip:
 ```
 $ pip install optuna
