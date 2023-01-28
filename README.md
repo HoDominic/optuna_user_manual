@@ -25,6 +25,8 @@ The dataset used is [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 You will learn how to implement Optuna to optimize hyperparameters using:<br>
 - Grid search
-- Random search
 - Tree-Structured Parzen Estimator (TPE)
+- Random search 
+- Extra example of manual random search without optuna
+
 
