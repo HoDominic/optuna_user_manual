@@ -1,6 +1,6 @@
 # Optuna user manual with demo examples
-This is a optuna user manual with demo.<br>
-Learn how to install and implement Optuna optimization with Machine learning and Deep learning models!
+<bold>This is a optuna user manual with demo.<br>
+Learn how to install and implement Optuna optimization with Machine learning and Deep learning models!<bold>
 
 ### What is Optuna?
   An open source hyperparameter optimization framework to automate hyperparameter search. 
