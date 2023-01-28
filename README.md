@@ -1,4 +1,4 @@
-# Optuna user manual
+# Optuna user manual with demo examples
 This is a optuna user manual with demo.<br>
 Learn how to install and implement Optuna optimization with Machine learning and Deep learning models!
 
