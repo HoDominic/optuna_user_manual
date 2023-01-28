@@ -7,3 +7,12 @@ Learn how to install and implement Optuna optimization with Machine learning and
   <br>Official website: [Optuna website](https://optuna.org)
   <br>Official documentation: [Optuna documentation](https://optuna.readthedocs.io/en/stable/)
     
+## Installation
+Optuna via pip:
+```
+$ pip install optuna
+```
+Optuna via conda:
+```
+$ conda install -c conda-forge optuna
+```
