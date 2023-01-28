@@ -4,6 +4,5 @@ Learn how to install and implement Optuna optimization with Machine learning and
 
 ### What is Optuna?
   An open source hyperparameter optimization framework to automate hyperparameter search. 
-  <br>The documentation can be found on the <br> 
-  official [Optuna website](https://optuna.org)
+  <br>The documentation can be found on the official [Optuna website](https://optuna.org)
     
