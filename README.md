@@ -19,6 +19,18 @@ Optuna via conda:
 $ conda install -c conda-forge optuna
 ```
 
+## Machine learning demo
+In this demo you can see how Optuna is implemented to a simple classification dataset.<br>
+
+You will learn how to implement Optuna to optimize hyperparameters using classification techniques such as:<br>
+- Logistic regression
+- Support vector machines
+- Random Forest Trees
+- Adaboost
+<br>All will be tested with grid search, random search and TPE
+
+
+
 ## Deep learning demo
 In this demo you can see how Optuna is implemented to convolutional neural networks.<br>
 The dataset used is [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
